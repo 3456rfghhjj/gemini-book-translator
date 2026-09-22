@@ -25,7 +25,7 @@ Desktop application in Python (Tkinter GUI) for translating books and long docum
 1. Install required libraries:
    pip install -r requirements.txt
 
-2. Open app.py and insert your Gemini API key:
+2. Open translator.py and insert your Gemini API key:
    API_KLUC = "YOUR_API_KEY_HERE"
 
 3. Run the application:
