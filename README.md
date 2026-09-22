@@ -19,7 +19,10 @@ Desktop application in Python (Tkinter GUI) for translating books and long docum
 * Automatic text chunking (3,500 characters)
 * API rate-limit handling
 * PalmDOC (PDB) decompression support
-
+* Automatic text chunking (3,500 characters)
+* API rate-limit handling
+* PalmDOC (PDB) decompression support
+* **Output:** Saves as clean plain text (`.txt`), which can easily be imported into Apple Pages, MS Word, or Calibre and exported as EPUB or other formats.
 ## How to Run
 
 1. Install required libraries:
